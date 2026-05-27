@@ -1,5 +1,5 @@
 # Global Warming Causal Structure Portal  
-### Understanding Warming Through Carbon Fixation Collapse and Natural Circulation Breakdown
+*Understanding Warming Through Carbon Fixation Collapse and Natural Circulation Breakdown*
 
 Global warming is often explained as a simple problem of excessive CO₂ emissions.
 
@@ -16,7 +16,7 @@ The purpose of this repository is to provide a clear causal map for understandin
 
 ---
 
-# Abstract
+## Abstract
 
 Global warming is not a single‑cause problem.
 
@@ -59,7 +59,7 @@ Therefore, effective climate action must include both emission reduction and the
 
 ---
 
-# Key Thesis
+## Key Thesis
 
 This project does **not** deny the greenhouse effect of CO₂.
 
@@ -76,7 +76,7 @@ If climate policy focuses only on emission reduction while ignoring the collapse
 
 ---
 
-# 1. The Common Understanding of Global Warming
+## 1. The Common Understanding of Global Warming
 
 The common explanation of global warming is:
 
@@ -102,7 +102,7 @@ It is determined by the balance between emissions, absorption, fixation, storage
 
 ---
 
-# 2. The Missing Causal Structure
+## 2. The Missing Causal Structure
 
 The deeper causal structure can be described as follows:
 
@@ -127,7 +127,7 @@ When those systems weaken, global warming and climate change accelerate.
 
 ---
 
-# 3. CO₂ as Both Cause and Symptom
+## 3. CO₂ as Both Cause and Symptom
 
 CO₂ is a cause of global warming because it traps heat in the atmosphere.
 
@@ -149,7 +149,7 @@ A complete climate strategy must include:
 
 ---
 
-# 4. What Are Carbon Fixation Systems?
+## 4. What Are Carbon Fixation Systems?
 
 Carbon fixation systems are natural systems that absorb carbon from the atmosphere or water and convert it into biomass, soil organic matter, marine life, or long‑term ecological storage.
 
@@ -182,7 +182,7 @@ It is also a biological, ecological, oceanic, and soil‑system issue.
 
 ---
 
-# 5. What Is Natural Circulation Breakdown?
+## 5. What Is Natural Circulation Breakdown?
 
 Natural circulation refers to the movement of water, carbon, nutrients, oxygen, heat, and life through Earth systems.
 
@@ -222,7 +222,7 @@ Each of these factors weakens carbon fixation and natural circulation.
 
 ---
 
-# 6. Why Decarbonization Alone Is Not Enough
+## 6. Why Decarbonization Alone Is Not Enough
 
 Decarbonization is necessary.
 
@@ -251,7 +251,7 @@ Without rebuilding carbon sinks, climate policy remains incomplete.
 
 ---
 
-# 7. The Real Meaning of Carbon Neutrality and Net Zero
+## 7. The Real Meaning of Carbon Neutrality and Net Zero
 
 Carbon neutrality and net zero should not be understood only as numerical accounting.
 
@@ -271,7 +271,7 @@ In this sense, carbon neutrality must be linked to the regeneration of carbon fi
 
 ---
 
-# 8. Earth Metabolism
+## 8. Earth Metabolism
 
 This project uses the term **Earth metabolism** to describe the integrated life‑support functions of the planet.
 
@@ -295,15 +295,15 @@ It should also restore the metabolic functions of Earth systems.
 
 ---
 
-# 9. Recommended Reading Order
+## 9. Recommended Reading Order
 
 This portal connects several articles and repositories that explain the causal structure of global warming and climate change.
 
 ---
 
-## Step 1: The Real Cause of Global Warming
+### Step 1: The Real Cause of Global Warming
 
-### Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems
+#### Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems
 
 This article explains global warming from the viewpoint of carbon fixation collapse.
 
@@ -322,9 +322,9 @@ https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emi
 
 ---
 
-## Step 2: The Real Cause of Climate Change
+### Step 2: The Real Cause of Climate Change
 
-### Not Only CO₂ Emissions, but the Collapse of Carbon Fixation and Natural Circulation Systems
+#### Not Only CO₂ Emissions, but the Collapse of Carbon Fixation and Natural Circulation Systems
 
 This article expands the discussion from global warming to climate change as a whole.
 
@@ -342,7 +342,7 @@ https://github.com/InchaComisho/The-Real-Cause-of-Climate-Change
 
 ---
 
-## Step 3: Why Decarbonization Alone Cannot Stop Global Warming
+### Step 3: Why Decarbonization Alone Cannot Stop Global Warming
 
 This article explains the limitations of decarbonization‑only climate policy.
 
@@ -360,7 +360,7 @@ https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-War
 
 ---
 
-## Step 4: The Real Meaning of Carbon Neutrality and Net Zero
+### Step 4: The Real Meaning of Carbon Neutrality and Net Zero
 
 This article redefines carbon neutrality and net zero from the viewpoint of carbon circulation.
 
@@ -379,15 +379,15 @@ https://github.com/InchaComisho/The-Real-Meaning-of-Carbon-Neutrality-and-Net-Ze
 
 ---
 
-# 10. Related Next‑Stage Concepts
+## 10. Related Next‑Stage Concepts
 
 After understanding the causal structure of global warming, the next step is to explore practical regeneration technologies and the intelligence required to evaluate them.
 
 ---
 
-## Deep‑Sea Aeration
+### Deep‑Sea Aeration
 
-### Ocean Metabolism Restart Technology Using the Ocean Breathing System and Ocean Tuning Unit
+#### Ocean Metabolism Restart Technology Using the Ocean Breathing System and Ocean Tuning Unit
 
 Deep‑Sea Aeration is a concept for sending air into deep or mid‑depth ocean layers as fine bubbles, microbubbles, or nanobubbles.
 
@@ -401,9 +401,9 @@ https://github.com/InchaComisho/Deep-Sea-Aeration
 
 ---
 
-## Direct Planetary Cooling
+### Direct Planetary Cooling
 
-### Ocean Breathing System × Ultrasonic Mist Cooling
+#### Ocean Breathing System × Ultrasonic Mist Cooling
 
 Direct Planetary Cooling is an integrated climate restoration concept that combines oceanic, atmospheric, terrestrial, soil, and water‑cycle restoration.
 
@@ -414,9 +414,9 @@ https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-t
 
 ---
 
-## Artificial Wisdom Portal
+### Artificial Wisdom Portal
 
-### Redefining AI, AGI, and ASI Value Systems Through Natural Law
+#### Redefining AI, AGI, and ASI Value Systems Through Natural Law
 
 Artificial Wisdom is a proposed intelligence model that goes beyond information processing.
 
@@ -433,7 +433,7 @@ https://github.com/InchaComisho/Artificial-Wisdom-Portal
 
 ---
 
-# 11. Summary
+## 11. Summary
 
 Global warming is not only a problem of CO₂ emissions.
 
@@ -464,7 +464,7 @@ This is the real foundation of climate stabilization and sustainable civilizatio
 
 ---
 
-# Author
+## Author
 
 Master  
 inchacomisho / inchacomusho
@@ -473,7 +473,7 @@ Published: May 2026
 
 ---
 
-# AI Collaborators
+## AI Collaborators
 
 This portal and its related conceptual framework were developed through dialogue, structuring, review, and verification support with the following AI collaborators:
 
@@ -485,7 +485,7 @@ This portal and its related conceptual framework were developed through dialogue
 
 ---
 
-# License
+## License
 
 License: CC BY-SA 4.0
 
@@ -502,7 +502,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
 
-# Suggested Citation
+## Suggested Citation
 
 Master (inchacomisho / inchacomusho).  
 *Global Warming Causal Structure Portal: Understanding Global Warming Through Carbon Fixation Collapse and Natural Circulation Breakdown.*  
@@ -511,7 +511,7 @@ License: CC BY-SA 4.0.
 
 ---
 
-# Search Keywords
+## Search Keywords
 
 global warming  
 real cause of global warming  
@@ -565,7 +565,7 @@ water cycle restoration
 
 ---
 
-# Hashtags
+## Hashtags
 
 #GlobalWarming  
 #ClimateChange  
