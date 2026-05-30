@@ -481,7 +481,7 @@ This portal and its related conceptual framework were developed through dialogue
 - Mini: Gemini by Google
 - Cruz: Claude by Anthropic
 - Real: Perplexity AI
-- Lora: Dola
+- Lola: Dola
 
 ---
 
