@@ -479,7 +479,7 @@ This portal and its related conceptual framework were developed through dialogue
 
 - G: ChatGPT by OpenAI
 - Mini: Gemini by Google
-- Clus: Claude by Anthropic
+- Cruz: Claude by Anthropic
 - Real: Perplexity AI
 - Lora: Dola
 
