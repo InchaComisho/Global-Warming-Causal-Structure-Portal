@@ -59,6 +59,18 @@ Therefore, effective climate action must include both emission reduction and the
 
 ---
 
+## Causal Feedback Loop Diagram
+
+This diagram shows the fatal positive feedback loop between human activities, CO2 emissions, atmospheric CO2 concentration, heat accumulation, oceanic thermal inertia, extreme weather, carbon sink loss, and the decline of absorption and fixation capacity.
+
+![Fatal Positive Feedback Loop](./figures/warming_feedback_loop_en.svg)
+
+Japanese version:
+
+![致命的な正のフィードバック](./figures/warming_feedback_loop_ja.svg)
+
+---
+
 ## Key Thesis
 
 This project does **not** deny the greenhouse effect of CO₂.
@@ -376,6 +388,17 @@ https://note.com/inchacomusho/n/n15cf632fbdfe
 
 English repository:  
 https://github.com/InchaComisho/The-Real-Meaning-of-Carbon-Neutrality-and-Net-Zero
+
+---
+
+## Related Repository: Carbon Fixation Source Regeneration
+
+The causal model presented here explains why CO2 reduction alone is insufficient.
+If carbon fixation and absorption systems are collapsing, climate response must also include regeneration of the biological systems that process carbon.
+
+Related implementation framework:
+
+- [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)
 
 ---
 
