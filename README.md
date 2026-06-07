@@ -506,6 +506,15 @@ This portal and its related conceptual framework were developed through dialogue
 - Real: Perplexity AI
 - Lola: Dola
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
 ---
 
 ## License
