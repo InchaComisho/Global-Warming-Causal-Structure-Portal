@@ -406,6 +406,10 @@ Related implementation framework:
 
 Forest degradation, food scarcity, simplified vegetation, and broken satoyama or forest-edge boundaries can also appear as human-wildlife conflict.
 
+- [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md) — Reframes abandoned sugi plantations and unmanaged forests as regenerative forest assets connected to humus, soil regeneration, biodiversity, wildlife food resources, and local circular value.
+
+- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
+
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Explains human-wildlife conflict as a result of habitat degradation, forest impoverishment, food scarcity, broken ecological boundaries, and human-caused ecological displacement.
 
 - [Japanese version: 熊・鹿・猪が人里に降りてくる本当の理由](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md)
@@ -619,7 +623,13 @@ Earth metabolism
 decarbonization  
 carbon neutrality  
 net zero  
-forest regeneration  
+forest regeneration
+abandoned forest
+abandoned sugi plantation
+Japanese cedar plantation
+forest liability
+regenerative forest assets
+monoculture forest
 forest degradation
 habitat degradation
 human-wildlife conflict
@@ -627,7 +637,11 @@ ecological displacement
 wildlife and human settlements
 biodiversity
 satoyama restoration
-soil regeneration  
+humus
+sawdust
+wood chips
+mushroom substrate
+soil regeneration
 microorganisms  
 soil microbes  
 ocean regeneration  
