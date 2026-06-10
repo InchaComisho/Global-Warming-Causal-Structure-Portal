@@ -402,6 +402,16 @@ Related implementation framework:
 
 ---
 
+## Related Repository: Human-Wildlife Conflict and Ecological Displacement
+
+Forest degradation, food scarcity, simplified vegetation, and broken satoyama or forest-edge boundaries can also appear as human-wildlife conflict.
+
+- [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Explains human-wildlife conflict as a result of habitat degradation, forest impoverishment, food scarcity, broken ecological boundaries, and human-caused ecological displacement.
+
+- [Japanese version: 熊・鹿・猪が人里に降りてくる本当の理由](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md)
+
+---
+
 ## 10. Related Next‑Stage Concepts
 
 After understanding the causal structure of global warming, the next step is to explore practical regeneration technologies and the intelligence required to evaluate them.
@@ -610,6 +620,13 @@ decarbonization
 carbon neutrality  
 net zero  
 forest regeneration  
+forest degradation
+habitat degradation
+human-wildlife conflict
+ecological displacement
+wildlife and human settlements
+biodiversity
+satoyama restoration
 soil regeneration  
 microorganisms  
 soil microbes  
