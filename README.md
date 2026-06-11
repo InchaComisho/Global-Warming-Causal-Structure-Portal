@@ -712,3 +712,9 @@ https://note.com/inchacomusho/n/n1fb289d0c377
 
 Global Warming Causal Structure Portal  
 https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal
+
+---
+
+## Related Mobility and Climate-Adaptive Vehicle Concept
+
+* [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — A climate-adaptive mobility concept integrating AER-Loop airflow energy recovery, center-mist evaporative cooling, and retrofit vehicle modules.
