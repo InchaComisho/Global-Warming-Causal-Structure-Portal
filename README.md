@@ -15,8 +15,8 @@ CO₂ is a major greenhouse gas, and the increase of atmospheric CO₂ is a dire
 
 This portal organizes global warming and climate change not only as a problem of emissions, but also as a problem of weakened carbon fixation systems, degraded natural circulation, declining soil and ocean metabolism, and the collapse of biological carbon sinks.
 
-**Author:** Master / inchacomusho / InchaComisho  
-**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)  
+**Author:** Master / inchacomusho / InchaComisho
+**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 **Published:** May 2026  
 **License:** CC BY-SA 4.0
 
@@ -615,6 +615,13 @@ Publicly active around Natural Law, Earth circulation regeneration, carbon fixat
 - **Mana (Manus)**
 
 ---
+
+## Related Portals
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Direct Planetary Cooling - Integrated Repository Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
+- [Natural Complementary Science and the New Civilizational Genesis Plan - Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown - Repository Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
 
 ## License
 

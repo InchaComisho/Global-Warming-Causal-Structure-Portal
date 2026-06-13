@@ -17,8 +17,8 @@ CO₂は主要な温室効果ガスであり、大気中CO₂濃度の増加は�
 
 このポータルは、地球温暖化と気候変動を、排出だけの問題ではなく、**炭素固定システムの弱体化、自然循環の崩壊、土壌・海洋代謝の低下、生物的炭素吸収源の崩壊**として整理する。
 
-**著者:** マスター / inchacomusho / InchaComisho  
-**AI協力:** G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）  
+**著者:** マスター / inchacomusho / InchaComisho
+**AI協力:** G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
 **公開月:** 2026年5月  
 **ライセンス:** CC BY-SA 4.0
 
@@ -570,6 +570,13 @@ CO₂排出削減は必須である。
   https://github.com/InchaComisho/Planetary-Heat-Circulation-OS
 
 ---
+
+## 関連ポータル
+
+- [マスター知識ポータル / Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [地球直接冷却 統合リポジトリ索引](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
+- [自然補完科学と新文明創成計画 リポジトリ索引](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [微生物崩壊・炭素固定喪失・惑星崩壊 リポジトリ索引](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
 
 ## 著者
 
