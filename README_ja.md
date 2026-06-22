@@ -544,6 +544,9 @@ CO₂排出削減は必須である。
 
 ## 関連するクーリングクレジット制度
 
+- [Cooling Credit Framework Portal / クーリングクレジット多言語ポータル](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+  物理的に測定可能な熱負荷低減を評価するクーリングクレジットの多言語公開ポータル。制度設計、MRV、Score Estimator、実装ポートフォリオ、腐葉土循環、森林再生、直接冷却技術へ誘導する入口。
+
 - [Cooling Credit Framework / クーリングクレジット制度設計案](https://github.com/InchaComisho/Cooling-Credit-Framework)
   地球直接冷却、水循環再生、都市冷却、土壌保水、植生蒸散、海洋循環などの冷却効果を評価し、経済的インセンティブへ接続する制度設計案。
 
