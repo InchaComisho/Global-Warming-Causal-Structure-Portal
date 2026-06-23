@@ -682,3 +682,11 @@ License: CC BY-SA 4.0.
 #炭素固定  
 #自然循環  
 #地球代謝
+
+
+---
+
+## 関連制度提案：カーボンクレジットからクーリングクレジットへ
+
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+  カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
