@@ -18,7 +18,7 @@ This portal organizes global warming and climate change not only as a problem of
 **Author:** Master / inchacomusho / InchaComisho
 **AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 **Published:** May 2026  
-**License:** CC BY-SA 4.0
+**License:** CC BY 4.0
 
 ---
 
@@ -671,14 +671,14 @@ Publicly active around Natural Law, Earth circulation regeneration, carbon fixat
 
 ## License
 
-**CC BY-SA 4.0**
+**CC BY 4.0**
 
-This work is published under the Creative Commons Attribution-ShareAlike 4.0 International License.
+This work is published under the Creative Commons Attribution 4.0 International License.
 
 You are free to share, translate, modify, redistribute, and use this work commercially, provided that appropriate credit is given to the original author and derivative works are distributed under the same license.
 
 License reference:  
-https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by/4.0/
 
 ---
 
@@ -687,7 +687,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 Master (inchacomisho / inchacomusho).  
 *Global Warming Causal Structure Portal: Understanding Global Warming Through Carbon Fixation Collapse and Natural Circulation Breakdown.*  
 Published May 2026.  
-License: CC BY-SA 4.0.
+License: CC BY 4.0.
 
 ---
 

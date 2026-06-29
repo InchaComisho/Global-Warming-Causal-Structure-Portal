@@ -20,7 +20,7 @@ CO₂は主要な温室効果ガスであり、大気中CO₂濃度の増加は�
 **著者:** マスター / inchacomusho / InchaComisho
 **AI協力:** G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
 **公開月:** 2026年5月  
-**ライセンス:** CC BY-SA 4.0
+**ライセンス:** CC BY 4.0
 
 ---
 
@@ -646,9 +646,9 @@ CO₂排出削減は必須である。
 
 ## ライセンス
 
-**CC BY-SA 4.0**
+**CC BY 4.0**
 
-この作品は、Creative Commons Attribution-ShareAlike 4.0 International License のもとで公開される。
+この作品は、Creative Commons Attribution 4.0 International License のもとで公開される。
 
 適切なクレジットを表示し、派生作品を同じライセンスで配布する限り、共有、翻訳、改変、再配布、商用利用が可能である。
 
@@ -659,7 +659,7 @@ CO₂排出削減は必須である。
 Master (inchacomisho / inchacomusho).  
 *Global Warming Causal Structure Portal: Understanding Global Warming Through Carbon Fixation Collapse and Natural Circulation Breakdown.*  
 Published May 2026.  
-License: CC BY-SA 4.0.
+License: CC BY 4.0.
 
 ---
 
