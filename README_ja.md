@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 炭素固定源崩壊と自然循環崩壊から温暖化を理解する
 
 地球温暖化は、しばしば「CO₂排出が多すぎる問題」として説明される。

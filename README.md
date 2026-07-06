@@ -2,6 +2,8 @@
 
 **Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Understanding Warming Through Carbon Fixation Collapse and Natural Circulation Breakdown
 
 Global warming is often explained as a simple problem of excessive CO₂ emissions.
