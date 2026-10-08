@@ -393,7 +393,6 @@ It does not deny the greenhouse effect of CO₂.
 Instead, it explains why CO₂ continues to accumulate when forests, soils, oceans, and microbial systems weaken.
 
 - Japanese version  
-  https://note.com/inchacomusho/n/n2d9b3781a97a
 
 - English repository  
   https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems
@@ -407,7 +406,6 @@ This article expands the discussion from global warming to climate change as a w
 It explains how water circulation, ocean circulation, soil health, forests, microorganisms, and ecosystems influence climate stability.
 
 - Japanese version  
-  https://note.com/inchacomusho/n/n2a3e45c6f014
 
 - English repository  
   https://github.com/InchaComisho/The-Real-Cause-of-Climate-Change
@@ -419,7 +417,6 @@ This article explains the limitations of decarbonization-only climate policy.
 Decarbonization is necessary, but it does not automatically restore carbon sinks or natural circulation.
 
 - Japanese version  
-  https://note.com/inchacomusho/n/nbab5fbadd9d5
 
 - English repository  
   https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming
@@ -433,7 +430,6 @@ True net zero should not be only a numerical balance.
 It should mean restoring Earth’s ability to absorb, fix, store, and circulate carbon.
 
 - Japanese version  
-  https://note.com/inchacomusho/n/n15cf632fbdfe
 
 - English repository  
   https://github.com/InchaComisho/The-Real-Meaning-of-Carbon-Neutrality-and-Net-Zero
@@ -459,7 +455,6 @@ Marine carbon fixation recovery
 ```
 
 - Japanese version  
-  https://note.com/inchacomusho/n/n3d91983e0ad4
 
 - English repository  
   https://github.com/InchaComisho/Deep-Sea-Aeration
@@ -488,7 +483,6 @@ Complex planetary systems cannot be governed only by short-term human-centered i
 They require intelligence capable of evaluating ecological stability, civilization continuity, and natural circulation together.
 
 - Japanese version  
-  https://note.com/inchacomusho/n/n2e0f11856472
 
 - GitHub repository  
   https://github.com/InchaComisho/Artificial-Wisdom-Portal
@@ -544,7 +538,6 @@ This is the real foundation of climate stabilization and sustainable civilizatio
 - Repository: https://github.com/InchaComisho/Cooling-Credit-Framework
 - Arabic README: https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md
 - Arabic version: An Arabic README for extending the Cooling Credit Framework to Arabic-speaking regions, especially dry regions, high-temperature environments, and water-cycle-based cooling applications.
-- NOTE: https://note.com/inchacomusho/n/n0f541b313ad2
 - Summary: A framework for measuring and incentivizing real heat-load reduction, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, and ocean circulation recovery as cooling contributions beyond conventional carbon-credit accounting.
 - Related fields: Direct Planetary Cooling, Water-Circulation Cities, Natural Complementary Science, urban cooling, heat island mitigation, soil regeneration, afforestation, ocean circulation, and Civilization OS.
 
@@ -569,7 +562,6 @@ Note: Cooling Credits in this framework are not solar-shielding credits. Solar s
 - [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
   Arabic version of the Cooling Credit Framework for dry regions, high-temperature environments, and water-cycle-based cooling applications.
 
-- [NOTE: Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
   Japanese article explaining the transition from carbon-credit-centered climate policy to a cooling-credit model that rewards actual heat reduction.
 
 ---
@@ -587,7 +579,6 @@ Note: Cooling Credits in this framework are not solar-shielding credits. Solar s
   https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md
 
 - Original NOTE article: 放置杉林を負債から循環資産へ  
-  https://note.com/inchacomusho/n/nfa9e2b639c06
 
 - Wildlife Is Not Invading Human Settlements  
   https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md

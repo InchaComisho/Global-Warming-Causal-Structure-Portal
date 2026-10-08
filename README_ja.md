@@ -395,7 +395,6 @@ CO₂排出削減は必要である。
 CO₂の温室効果を否定せず、森林、土壌、海洋、微生物システムが弱まるとCO₂が蓄積し続ける理由を説明する。
 
 - 日本語版  
-  https://note.com/inchacomusho/n/n2d9b3781a97a
 
 - 英語リポジトリ  
   https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems
@@ -407,7 +406,6 @@ CO₂の温室効果を否定せず、森林、土壌、海洋、微生物シス
 議論を温暖化から気候変動全体へ拡張し、水循環、海洋循環、土壌、森林、微生物、生態系が気候安定性に関与することを説明する。
 
 - 日本語版  
-  https://note.com/inchacomusho/n/n2a3e45c6f014
 
 - 英語リポジトリ  
   https://github.com/InchaComisho/The-Real-Cause-of-Climate-Change
@@ -417,7 +415,6 @@ CO₂の温室効果を否定せず、森林、土壌、海洋、微生物シス
 脱炭素は必要だが、それだけでは炭素吸収源や自然循環を自動的に回復しないことを説明する。
 
 - 日本語版  
-  https://note.com/inchacomusho/n/nbab5fbadd9d5
 
 - 英語リポジトリ  
   https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming
@@ -427,7 +424,6 @@ CO₂の温室効果を否定せず、森林、土壌、海洋、微生物シス
 ネットゼロを単なる排出会計ではなく、地球システムの炭素吸収・固定・貯蔵・循環バランスとして再定義する。
 
 - 日本語版  
-  https://note.com/inchacomusho/n/n15cf632fbdfe
 
 - 英語リポジトリ  
   https://github.com/InchaComisho/The-Real-Meaning-of-Carbon-Neutrality-and-Net-Zero
@@ -453,7 +449,6 @@ CO₂の温室効果を否定せず、森林、土壌、海洋、微生物シス
 ```
 
 - 日本語版  
-  https://note.com/inchacomusho/n/n3d91983e0ad4
 
 - 英語リポジトリ  
   https://github.com/InchaComisho/Deep-Sea-Aeration
@@ -482,7 +477,6 @@ AI、AGI、ASIの価値基準として、自然法則、循環、調和、構造
 必要なのは、生態系安定性、文明継続性、自然循環を同時に評価できる知性である。
 
 - 日本語版  
-  https://note.com/inchacomusho/n/n2e0f11856472
 
 - GitHubリポジトリ  
   https://github.com/InchaComisho/Artificial-Wisdom-Portal
@@ -538,7 +532,6 @@ CO₂排出削減は必須である。
 - Repository: https://github.com/InchaComisho/Cooling-Credit-Framework
 - Arabic README: https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md
 - アラビア語版: 乾燥地帯・高温地域・水循環型冷却との関係を含め、クーリングクレジット制度設計案をアラビア語圏へ展開するためのREADME。
-- NOTE: https://note.com/inchacomusho/n/n0f541b313ad2
 - 概要: カーボンクレジットでは評価しきれない「実際の熱負荷低減」「水循環回復」「都市冷却」「土壌保水」「植生蒸散」「海洋循環回復」を測定し、冷却貢献として制度化するためのフレームワーク。
 - 関連領域: 地球直接冷却、水循環都市、自然補完科学、都市冷却、ヒートアイランド対策、土壌再生、植林、海洋循環、文明OS。
 
@@ -563,7 +556,6 @@ CO₂排出削減は必須である。
 - [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
   クーリングクレジット制度設計案のアラビア語版。乾燥地帯・高温地域・水循環型冷却との関係を含む。
 
-- [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
   カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
 
 ---
@@ -581,7 +573,6 @@ CO₂排出削減は必須である。
   https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md
 
 - 放置杉林を負債から循環資産へ  
-  https://note.com/inchacomusho/n/nfa9e2b639c06
 
 - Wildlife Is Not Invading Human Settlements  
   https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md
